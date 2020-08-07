@@ -1,3 +1,5 @@
+ /********** Module2 Coding Assignment (Styles.css) **********/
+
 * {
     box-sizing: border-box;
     font-family: Helvetica;
@@ -67,8 +69,9 @@ p {
 }
 
 
-/********** Desktop version **********/
-@media (min-width: 992px) {
+  /********** Desktop version **********/
+ 
+  @media (min-width: 992px) {
     .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
       float: left;
       padding: 15px;
